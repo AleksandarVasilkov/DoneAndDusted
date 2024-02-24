@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DoneAndDusted/static/css/main.b10e32f0.css",
+    "main.js": "/DoneAndDusted/static/js/main.ae0cb232.js",
+    "static/js/453.81f383cb.chunk.js": "/DoneAndDusted/static/js/453.81f383cb.chunk.js",
+    "index.html": "/DoneAndDusted/index.html",
+    "main.b10e32f0.css.map": "/DoneAndDusted/static/css/main.b10e32f0.css.map",
+    "main.ae0cb232.js.map": "/DoneAndDusted/static/js/main.ae0cb232.js.map",
+    "453.81f383cb.chunk.js.map": "/DoneAndDusted/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10e32f0.css",
+    "static/js/main.ae0cb232.js"
+  ]
+}
